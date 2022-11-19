@@ -35,7 +35,7 @@ docker-compose up
 If you want, you can check the tables created and their relations with any softwares like DBeaver (search for the ER Diagrama for your database):
 
 <p align="center">
-	<img src="(https://github.com/heitor-jsr/L2-Code-Challange/blob/main/03/imgs/dbeaver-exemple.png)" width="550">
+	<img src="https://github.com/heitor-jsr/L2-Code-Challange/blob/main/03/imgs/dbeaver-exemple.png" width="550">
 </p>
 
 Next, we need to populate our tables. This can be made using any SQL software manipulator. For this project, i used DBeaver. You can populate the tables with the POST methods created for this CRUD too.
