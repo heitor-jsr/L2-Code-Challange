@@ -66,7 +66,7 @@ Given the table relations and rules, you need to insert the data into the tables
 
 If everything went smoothly enough, you can use [Insomnia](https://insomnia.rest/download) to run the API methods and manipulate the database.
 
-To use the methods, you can user the following comand in the terminal:
+To use the methods, you can use the following comand in the terminal:
 
 ```sh
 npm run dev
