@@ -10,8 +10,8 @@
 </h3>
 
 <p align="center">
-	<img src="03/imgs/paid.png" width="550">
-	<img src="03/imgs/debt.png" width="550">
+	<img src="https://github.com/heitor-jsr/L2-Code-Challange/blob/main/03/imgs/paid.png" width="550">
+	<img src="https://github.com/heitor-jsr/L2-Code-Challange/blob/main/03/imgs/debt.png" width="550">
 </p>
 
 ## **Overview**
